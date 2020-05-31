@@ -32,7 +32,8 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-flip-move": "^3.0.3",
-    "styled-components": "^4.3.2"
+    "styled-components": "^4.3.2",
+    "yarn": "^1.22.4"
   },
   "devDependencies": {
     "@upstatement/eslint-config": "^0.4.2",
