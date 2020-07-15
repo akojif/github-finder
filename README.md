@@ -1,6 +1,6 @@
 # OctoProfile
 
-A nicer look at your GitHub Profile! With charts!
+A better look at your GitHub Profile! With charts!
 
 ![demo](https://raw.githubusercontent.com/akojif/octoprofile/master/static/og.png)
 
