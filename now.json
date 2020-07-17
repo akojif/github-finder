@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "alias": "octoprofile",
-  "name": "octoprofile",
-  "builds": [{ "src": "package.json", "use": "@now/next" }]
+    "version": 2,
+    "alias": "githubfinder",
+    "name": "githubfinder",
+    "builds": [{ "src": "package.json", "use": "@now/next" }]
 }
