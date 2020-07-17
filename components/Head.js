@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 
 const defaultTitle = 'Github Finder';
 const defaultDescription = 'A nicer look at your GitHub profile. With charts!';
-const defaultOGURL = 'https://octoprofile-akf.vercel.app';
-const defaultOGImage = 'https://octoprofile-akf.vercel.app/static/og.png';
+const defaultOGURL = 'https://githubfinder-akf.vercel.app';
+const defaultOGImage = 'https://githubfinder-akf.vercel.app/static/og.png';
 
 const Head = props => (
   <NextHead>
