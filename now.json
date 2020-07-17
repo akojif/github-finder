@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "alias": "githubfinder",
+    "alias": "githubfinder-akf",
     "name": "githubfinder",
     "builds": [{ "src": "package.json", "use": "@now/next" }]
 }
