@@ -1,8 +1,8 @@
-# OctoProfile
+# Github Finder
 
 A better look at your GitHub Profile! With charts!
 
-![demo](https://raw.githubusercontent.com/akojif/octoprofile/master/static/og.png)
+![demo](https://raw.githubusercontent.com/akojif/githubfinder/master/static/og.png)
 
 Built with:
 
