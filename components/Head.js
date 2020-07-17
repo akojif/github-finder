@@ -2,10 +2,10 @@ import React from 'react';
 import NextHead from 'next/head';
 import PropTypes from 'prop-types';
 
-const defaultTitle = 'OctoProfile';
+const defaultTitle = 'Github Finder';
 const defaultDescription = 'A nicer look at your GitHub profile. With charts!';
-const defaultOGURL = 'https://octoprofile.netlify.app';
-const defaultOGImage = 'https://octoprofile.netlify.app/static/og.png';
+const defaultOGURL = 'https://octoprofile-akf.vercel.app';
+const defaultOGImage = 'https://octoprofile-akf.vercel.app/static/og.png';
 
 const Head = props => (
   <NextHead>
