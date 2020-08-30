@@ -12,6 +12,8 @@ Built with:
 - [React Flip Move](https://github.com/joshwcomeau/react-flip-move)
 - [Styled Components](https://www.styled-components.com/)
 
+Inspired by [Brittany Chiang](https//:github.com/bchiang7)
+
 ## Getting Started
 
 1. Install dependencies
